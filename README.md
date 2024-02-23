@@ -1,10 +1,10 @@
 # SpringAI
 SpringAI was made for use in SisijaFight game.
 ## What is SpringAI?
-SpringAI is a FLOSS language model that can be 
-    
+SpringAI is a FLOSS language model based on Llama-cpp
+
     SpringAI, FLOSS language model
-    Copyright (C) <year>  <name of author>
+    Copyright (C) 2024  AnatoliyLI and Lulu-Games
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
