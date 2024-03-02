@@ -1,7 +1,7 @@
 # SpringAI
-SpringAI was made for use in SisijaFight game.
+SpringAI was made for use in SisijaFight game. But can be used for other Purposes too. It will be based on LLAmaCpp
 ## What is SpringAI?
-SpringAI is a FLOSS language model made from scratch
+SpringAI is a FLOSS language model made to use with LLamaCpp
 
     SpringAI, FLOSS language model
     Copyright (C) 2024  AnatoliyLI and Lulu-Games
