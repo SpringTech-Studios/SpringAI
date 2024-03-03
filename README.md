@@ -1,10 +1,10 @@
 # SpringAI
-SpringAI was made for use in SisijaFight game. But can be used for other Purposes too. It will run on Torch (PyTorch)
+SpringAI was made for use in SisijaFight game. But can be used for other Purposes too.
 ## What is SpringAI?
-SpringAI is a FLOSS language model made to use with Torch
+SpringAI is a FLOSS language model made from scratch
 
     SpringAI, FLOSS language model
-    Copyright (C) 2024  AnatoliyLI and Lucas Gola (Lulu-Games)
+    Copyright (C) 2024  AnatoliyL and Lucas Gola (Lulu-Games)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
